@@ -219,7 +219,7 @@ input[type='submit'] {
 	text-shadow: none;
 	border: 1px solid #eea548;
 	border-radius: 6px;
-	color: #e3d6ca;
+	color: #eea548;
 	cursor: pointer;
 	font-size: 1.125rem;
 	font-weight: bold;
@@ -232,7 +232,7 @@ input[type='submit'] {
 }
 
 input[type='submit']:hover {
-	background: #e3d6ca;
+	background: #eea548;
 	color: white;
 }
 
