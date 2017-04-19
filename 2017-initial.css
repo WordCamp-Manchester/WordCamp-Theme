@@ -188,7 +188,7 @@ span.alrignright {
 	text-align:right;
 }
 a, a:visited {
-	color: #ad4c23;
+	color: #eea548;/*ad4c23;*/
 	text-decoration: none;
 }
 
@@ -295,7 +295,7 @@ input[type='submit']:hover {
 }
 
 .main-navigation ul > li a {
-	color: #ad4c23;
+	color: #eea548;
 	display: block;
 	padding: 1.6875rem .66667rem 1.6875rem 0;
 	text-decoration: none;
@@ -307,7 +307,7 @@ input[type='submit']:hover {
 }
 
 .main-navigation ul > li a:before {
-	color: #e3d6ca;
+	color: #eea548;
 	content: '|';
 	margin-right: .75rem;
 }
@@ -918,7 +918,7 @@ footer.entry-meta .sep {
 }
 
 .widget li a {
-	color: #ad4c23;
+	color: #eea548;
 	text-decoration: none;
 	-moz-transition: color 300ms;
 	-o-transition: color 300ms;
