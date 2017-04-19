@@ -187,7 +187,7 @@ span.alrignright {
 	display:block;
 	text-align:right;
 }
-a {
+a, a:visited {
 	color: #ad4c23;
 	text-decoration: none;
 }
