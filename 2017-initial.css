@@ -52,7 +52,11 @@ table {
 	border-spacing: 0;
 }
 
-/*footer.entry-meta .cat-links:before, footer.entry-meta .tag-links:before, footer.entry-meta .comments-link:before, footer.entry-meta .edit-link:before, .post-navigation .nav-previous:before {
+/*footer.entry-meta .cat-links:before,
+footer.entry-meta .tag-links:before,
+footer.entry-meta .comments-link:before,
+footer.entry-meta .edit-link:before,
+.post-navigation .nav-previous:before {
 	background: transparent url('https://2015.la.wordcamp.org/files/2015/05/icons-sm.png');
 	background-repeat: no-repeat;
 	content: '';
@@ -518,14 +522,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 article {
-	background-color: white;
-	background-image: url('https://2015.la.wordcamp.org/files/2015/05/divider-post.png'), url('https://2015.la.wordcamp.org/files/2015/05/divider-post-after.png');
-	background-position: 0 0, 50% 100%;
-	background-repeat: no-repeat, no-repeat;
-	border-radius: 2px;
-	-moz-box-shadow: 0 0 12px rgba(126,99,88,0.1);
-	-webkit-box-shadow: 0 0 12px rgba(126,99,88,0.1);
-	box-shadow: 0 0 12px rgba(126,99,88,0.1);
+	background-color: #ffffff;
+	border-radius: 5px;
+	border: 1px solid #eea548;
+	border-radius: 5px;
 	margin-bottom: 2.53125rem;
 	padding: 2.53125rem;
 }
@@ -966,8 +966,8 @@ footer.entry-meta .sep {
 
 @media screen and (min-width: 576px) {
 	#footer-widget-1,
-																																																																									  #footer-widget-2,
-																																																																									  #footer-widget-3 {
+	#footer-widget-2,
+	#footer-widget-3 {
 		float: left;
 		width: 33.33333%;
 	}
@@ -975,8 +975,8 @@ footer.entry-meta .sep {
 
 @media print,screen and (min-width: 4768px) {
 	#footer-widget-1,
-																																																																									  #footer-widget-2,
-																																																																									  #footer-widget-3 {
+	#footer-widget-2,
+	#footer-widget-3 {
 		width: 20%;
 	}
 }
@@ -1368,11 +1368,6 @@ td.tix-column-remaining {
 	background-image: url( 'https://2016.manchester.wordcamp.org/files/2016/09/hexagon-beehive-white-honeycomb-2560x1600-c2-fafafa-f6efef-l2-6-102-a-30-f-5.png' );
 	background-size: cover;
 	border-top: none;
-}
-
-article {
-	background-color: #fff;
-	background-image: none !important;
 }
 
 #main {
