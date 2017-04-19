@@ -247,9 +247,6 @@ input[type='submit']:hover {
 	background: #ad4c23;
 	background-size: cover;
 	border-top: 5px solid #ad4c23;
-	-moz-box-shadow: inset 0 10px 60px rgba(126,99,88,0.5);
-	-webkit-box-shadow: inset 0 10px 60px rgba(126,99,88,0.5);
-	box-shadow: inset 0 10px 60px rgba(126,99,88,0.5);
 	margin-bottom: 7.75rem;
 	position: relative;
 	text-align: center;
@@ -439,9 +436,6 @@ input[type='submit']:hover {
 
 #after-header-widgets .textwidget img {
 	border-radius: 2px;
-	-moz-box-shadow: 0 0 12px rgba(126,99,88,0.1);
-	-webkit-box-shadow: 0 0 12px rgba(126,99,88,0.1);
-	box-shadow: 0 0 12px rgba(126,99,88,0.1);
 	cursor: pointer;
 	display: block;
 	margin: 0 auto;
@@ -483,7 +477,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #main {
-	background: url('https://2015.la.wordcamp.org/files/2015/05/logo-prefooter.png') 50% 100% no-repeat;
 	margin: 3.375rem auto 2.25rem;
 	max-width: 62rem;
 	padding-bottom: 7.59375rem;
@@ -801,9 +794,6 @@ footer.entry-meta .sep {
 	background: white;
 	border-top: 10px solid #fdc17b;
 	border-radius: 2px;
-	-moz-box-shadow: 0 0 12px rgba(126,99,88,0.1);
-	-webkit-box-shadow: 0 0 12px rgba(126,99,88,0.1);
-	box-shadow: 0 0 12px rgba(126,99,88,0.1);
 	margin-bottom: 1.6875rem;
 	padding: 2.53125rem;
 }
@@ -1007,9 +997,6 @@ footer.entry-meta .sep {
 }
 
 .site-info {
-	-moz-box-shadow: inset 0 -10px 60px rgba(126,99,88,0.5);
-	-webkit-box-shadow: inset 0 -10px 60px rgba(126,99,88,0.5);
-	box-shadow: inset 0 -10px 60px rgba(126,99,88,0.5);
 	background: #fafafa;
 /*190700;*/
 /*background-image: url('https://2016.manchester.wordcamp.org/files/2016/07/worker-bee.png');*/
@@ -1277,9 +1264,6 @@ body div.sharedaddy h3.sd-title:before {
 	background: rgba(255,255,255,0.4);
 	border-radius: 2px;
 	border-top: 5px solid #fdc17b;
-	-moz-box-shadow: 0 0 12px rgba(126,99,88,0.05);
-	-webkit-box-shadow: 0 0 12px rgba(126,99,88,0.05);
-	box-shadow: 0 0 12px rgba(126,99,88,0.05);
 	padding: 1rem;
 	margin-bottom: 1rem;
 }
@@ -1366,8 +1350,8 @@ td.tix-column-remaining {
 }
 
 .site-header {
-	background-color: #fafafa;
-	background-image: url( 'https://2016.manchester.wordcamp.org/files/2016/09/hexagon-beehive-white-honeycomb-2560x1600-c2-fafafa-f6efef-l2-6-102-a-30-f-5.png' );
+	background-color: #ffffff;
+/*	background-image: url( 'https://2016.manchester.wordcamp.org/files/2016/09/hexagon-beehive-white-honeycomb-2560x1600-c2-fafafa-f6efef-l2-6-102-a-30-f-5.png' );*/
 	background-size: cover;
 	border-top: none;
 }
