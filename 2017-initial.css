@@ -274,7 +274,7 @@ input[type='submit']:hover {
 	position: absolute;
 	text-align: left;
 	width: 100%;
-	border-top: 3px solid #eea548;
+	border-top: 1px solid #eea548;
 }
 
 .main-navigation ul {
