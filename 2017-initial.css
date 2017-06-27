@@ -472,7 +472,7 @@ input[type='submit']:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'PT Mono', monospace;
+	font-family: 'Montserrat', 'PT Mono', 'sans-serif', monospace;
 }
 
 #main {
@@ -549,7 +549,7 @@ article {
 
 .entry-title + .entry-meta {
 	color: #cfc0ba;
-	font-family: 'PT Mono', monospace;
+	font-family: 'Montserrat', 'PT Mono', 'sans-serif', monospace;
 	font-size: 1.5rem;
 }
 
@@ -567,7 +567,7 @@ article {
 }
 
 .entry-content > p:first-of-type {
-	font-family: 'PT Mono', monospace;
+	font-family: 'Montserrat', 'PT Mono', 'sans-serif', monospace;
 	font-size: 1.125rem;
 	margin-bottom: 1.125rem;
 }
@@ -659,7 +659,7 @@ article {
 .comment-content blockquote {
 	border-bottom: 1px solid #1aaacd;
 	border-top: 1px solid #1aaacd;
-	font-family: 'PT Mono', monospace;
+	font-family: 'Montserrat', 'PT Mono', 'sans-serif', monospace;
 	padding: 1rem;
 }
 
@@ -1028,7 +1028,7 @@ footer.entry-meta .sep {
 	text-decoration: none;
 	top: 0;
 	width: 95px;
-	font-family: 'PT Mono', monospace;
+	font-family: 'Montserrat', 'PT Mono', 'sans-serif', monospace;
 }
 
 .admin-bar .site-info .site-info-network {
@@ -1153,13 +1153,13 @@ body div.sharedaddy h3.sd-title:before {
 	background: #fafafa;
 	border: 1px solid white;
 /*color: white;*/
-	font-family: 'PT Mono', monospace;
+	font-family: 'Montserrat', 'PT Mono', 'sans-serif', monospace;
 }
 
 .wcpt-schedule .wcpt-time {
 	background: #fafafa;
 	border: 1px solid white;
-	font-family: 'PT Mono', monospace;
+	font-family: 'Montserrat', 'PT Mono', 'sans-serif', monospace;
 }
 
 .wcpt-schedule .wcpt-session-type-session {
@@ -1293,7 +1293,7 @@ body div.sharedaddy h3.sd-title:before {
 .tix_tickets_table th,
 .tix-ticket-form th {
 	border-bottom: 5px solid #ad4c23;
-	font-family: 'PT Mono', monospace;
+	font-family: 'Montserrat', 'PT Mono', 'sans-serif', monospace;
 	font-size: 1.125rem;
 	font-weight: normal;
 	padding: .5rem;
@@ -1309,7 +1309,7 @@ body div.sharedaddy h3.sd-title:before {
 strong.tix-ticket-title {
 	color: #190700;
 	display: block;
-	font-family: 'PT Mono', monospace;
+	font-family: 'Montserrat', 'PT Mono', 'sans-serif', monospace;
 	font-weight: normal;
 	margin: 0;
 }
@@ -1397,7 +1397,7 @@ li#menu-item-701 > a {
 pre {
 	background: #f6f2ef;
 	color: #b32419;
-	font-family: 'PT Mono', monospace;
+	font-family: 'Montserrat', 'PT Mono', 'sans-serif', monospace;
 	border: 1px dashed #e3d6ca;
 	border-radius: 4px;
 	-moz-box-sizing: border-box;
