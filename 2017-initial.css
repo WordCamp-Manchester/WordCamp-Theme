@@ -1229,6 +1229,10 @@ body div.sharedaddy h3.sd-title:before {
 	background-size: contain;
 }
 
+.home .site-title {
+	margin-top:5em;
+}
+
 @media print,screen and (min-width: 768px) {
 	.site-title {
 		width: 300px;
