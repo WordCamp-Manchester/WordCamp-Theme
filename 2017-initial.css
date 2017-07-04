@@ -244,9 +244,6 @@ input[type='submit']:hover {
 }
 
 .site-header {
-	background: #ad4c23;
-	background-size: cover;
-	border-top: 5px solid #ad4c23;
 	margin-bottom: 7.75rem;
 	position: relative;
 	text-align: center;
@@ -1347,8 +1344,8 @@ td.tix-column-remaining {
 }
 
 .site-header {
-	background-color: #ffffff;
-/*	background-image: url( 'https://2016.manchester.wordcamp.org/files/2016/09/hexagon-beehive-white-honeycomb-2560x1600-c2-fafafa-f6efef-l2-6-102-a-30-f-5.png' );*/
+	background-color: #eea548;
+	background-image: url( 'https://2017.manchester.wordcamp.org/files/2017/07/Skyline.png' );
 	background-size: cover;
 	border-top: none;
 }
