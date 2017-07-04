@@ -1223,9 +1223,7 @@ body div.sharedaddy h3.sd-title:before {
 .site-title {
 	width: 270px;
 	padding-top: 250px;
-	background: transparent url('https://raw.githubusercontent.com/tomjn/wcmcr/master/WCMCR-Logo/WCMCR-Logo.png') top center no-repeat;
-/*background: transparent url('https://2016.manchester.wordcamp.org/files/2016/07/wcmcr2.png') center center no-repeat;*/
-/*https://2015.la.wordcamp.org/files/2015/05/logo.png');*/
+	background: transparent url('https://2017.manchester.wordcamp.org/files/2017/07/WCMCR-Logo-Outlined.png') top center no-repeat;
 	margin: 3em auto;
 	white-space: nowrap;
 	overflow: hidden;
