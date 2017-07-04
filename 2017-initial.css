@@ -1036,6 +1036,13 @@ footer.entry-meta .sep {
 	top: 32px;
 }
 
+/* admin bar is taller on mobiles */
+@media screen and (max-width: 782px) {
+	.admin-bar .site-info .site-info-network {
+		top: 46px;
+	}
+}
+
 .site-info .site-info-network:hover {
 	color: #ff6f32;
 }
