@@ -1351,7 +1351,7 @@ td.tix-column-remaining {
 	margin-bottom: 1rem;
 }
 
-.site-header {
+.site-header > hgroup {
 	background-color: #eea548;
 	background-image: url( 'https://2017.manchester.wordcamp.org/files/2017/07/Skyline.png' );
 	background-position: center bottom;
