@@ -271,7 +271,7 @@ input[type='submit']:hover {
 	position: absolute;
 	text-align: left;
 	width: 100%;
-	border-top: 1px solid #eea548;
+	border-top: none; /*1px solid #eea548;*/
 }
 
 .main-navigation ul {
@@ -1346,6 +1346,7 @@ td.tix-column-remaining {
 .site-header {
 	background-color: #eea548;
 	background-image: url( 'https://2017.manchester.wordcamp.org/files/2017/07/Skyline.png' );
+	background-position: center bottom;
 	background-size: cover;
 	border-top: none;
 }
