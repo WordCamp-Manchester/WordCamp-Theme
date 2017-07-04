@@ -128,7 +128,6 @@ html {
 
 body {
 	background: #ffffff;
-/* #ece3db;*/
 	color: #604b43;
 	font-family: 'Lato', sans-serif;
 	font-size: 1rem;
@@ -208,7 +207,8 @@ a.button:hover {
 
 input[type='text'],
 input[type='email'],
-textarea {
+textarea,
+select {
 	font-family: inherit;
 	font-size: inherit;
 	border: 1px solid #eea548;
