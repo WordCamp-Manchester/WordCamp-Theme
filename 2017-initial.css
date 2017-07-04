@@ -1302,7 +1302,7 @@ body div.sharedaddy h3.sd-title:before {
 
 .tix_tickets_table th,
 .tix-ticket-form th {
-	border-bottom: 1px solid #;
+	border-bottom: 1px solid #eea548;
 	font-family: 'Montserrat', 'PT Mono', 'sans-serif', monospace;
 	font-size: 1.125rem;
 	font-weight: normal;
@@ -1432,6 +1432,9 @@ table {
 	max-width: 100%;
 }
 
+th {
+	border-bottom: 1px solid #eea548;
+}
 #footer-widget-2 div {
 	text-align: center;
 }
