@@ -881,9 +881,9 @@ footer.entry-meta .sep {
 }
 
 #primary-sidebar .widget {
-	background: url('https://2016.manchester.wordcamp.org/files/2016/07/worker-bee.png') 50% 100% no-repeat;
+	/*background: url('https://2016.manchester.wordcamp.org/files/2016/07/worker-bee.png') 50% 100% no-repeat;*/
 	margin: 0 0 2.53125rem;
-	padding-bottom: 65px;
+	/*padding-bottom: 65px;*/
 }
 
 #primary-sidebar input[type='text'],
