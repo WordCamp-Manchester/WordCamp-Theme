@@ -979,8 +979,8 @@ footer.entry-meta .sep {
 	#footer-widget-2 .widget,
 	#footer-widget-3 .widget {
 		float: left;
-		width: 45%;
-		margin-right: 2.5%;
+		width: 46%;
+		margin-left: 2%;
 	}
 }
 
