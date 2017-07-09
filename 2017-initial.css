@@ -952,6 +952,7 @@ footer.entry-meta .sep {
 	clear: both;
 	content: '';
 	display: table;
+	width: 100%;
 }
 
 #footer-widget-1 .widget,
@@ -994,15 +995,6 @@ footer.entry-meta .sep {
 	#footer-widget-4 {
 		clear: both;
 		margin-top: 1rem;
-	}
-}
-
-@media print,screen and (min-width: 4768px) {
-	#footer-widget-4 {
-		clear: none;
-		float: right;
-		margin-top: 0;
-		width: 40%;
 	}
 }
 
