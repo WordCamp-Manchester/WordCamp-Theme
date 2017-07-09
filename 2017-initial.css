@@ -985,6 +985,7 @@ footer.entry-meta .sep {
 		float: left;
 		width: 46%;
 		margin-left: 2%;
+		min-height:600px;
 	}
 }
 
