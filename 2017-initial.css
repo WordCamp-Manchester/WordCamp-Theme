@@ -492,6 +492,10 @@ input[type='email']:focus {
 	border-top: 5px solid #7e6358;
 }
 
+.widget .wp-caption {
+	border:none;
+	width: 100% !important;
+}
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Montserrat', 'PT Mono', 'sans-serif', monospace;
 }
