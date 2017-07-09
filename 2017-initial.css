@@ -977,6 +977,9 @@ footer.entry-meta .sep {
     padding: 2.53125rem;
 	width:100%;
 	margin-right:0;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
 }
 @media screen and (min-width: 576px) {
 	#footer-widget-1 .widget,
@@ -989,7 +992,7 @@ footer.entry-meta .sep {
 	}
 }
 
-#footer-widget-4 {
+#footer-widget-4 .widget {
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
