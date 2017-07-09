@@ -970,21 +970,16 @@ footer.entry-meta .sep {
     border-radius: 5px;
     margin-bottom: 2.53125rem;
     padding: 2.53125rem;
+	width:100%;
+	margin-right:0;
 }
 @media screen and (min-width: 576px) {
 	#footer-widget-1 .widget,
 	#footer-widget-2 .widget,
 	#footer-widget-3 .widget {
 		float: left;
-		width: 33.33333%;
-	}
-}
-
-@media print,screen and (min-width: 4768px) {
-	#footer-widget-1 .widget,
-	#footer-widget-2 .widget,
-	#footer-widget-3 .widget {
-		width: 20%;
+		width: 40%;
+		margin-right: 2.53125rem;
 	}
 }
 
