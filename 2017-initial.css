@@ -1242,7 +1242,8 @@ body div.sharedaddy h3.sd-title:before {
 	background-size: contain;
 }
 
-.home .site-title {
+/*.home */
+.site-title {
 	margin-top:10em;
 }
 
