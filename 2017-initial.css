@@ -218,13 +218,14 @@ select {
 	border-radius: 6px;
 }
 
+a.link-button,
 input[type='submit'] {
 	background: #ffffff;
 	box-shadow: none;
 	text-shadow: none;
 	border: 1px solid #eea548;
 	border-radius: 6px;
-	color: #eea548;
+	color: #eea548 !important;
 	cursor: pointer;
 	font-size: 1.125rem;
 	font-weight: bold;
@@ -236,6 +237,7 @@ input[type='submit'] {
 	transition: all 300ms;
 }
 
+a.link-button:hover,
 input[type='submit']:hover {
 	background: #eea548;
 	color: white;
