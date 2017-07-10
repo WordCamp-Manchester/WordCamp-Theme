@@ -477,7 +477,7 @@ img[alt='Wapuu bee'],
 	transition: all 300ms;
 }
 
-img[alt='Wapuu bee'],
+img[alt='Wapuu bee']:hover,
 #after-header-widgets .textwidget img:hover {
 	-moz-transform: scale(1.05);
 	-ms-transform: scale(1.05);
