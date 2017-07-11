@@ -1403,6 +1403,8 @@ pre {
 
 .googlemaps {
 	border: 1px solid #d1bca9;
+	margin: 1.5em 0;
+	max-width:100%;
 }
 .entry-content img {
 	border-radius: 4px;
