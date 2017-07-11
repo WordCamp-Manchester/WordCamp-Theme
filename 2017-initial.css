@@ -197,6 +197,9 @@ a, a:visited {
 a:hover {
 	color: #ff6f32;
 }
+a:focus {
+	color: magenta;
+}
 
 a.button {
 	border: 2px solid #ad4c23;
