@@ -653,21 +653,31 @@ article {
 	font-size: 1.6875rem;
 	border-bottom: 2px solid #d1bca9;
 	display: inline-block;
+	padding: 0 0 .66667rem;
 }
 
 .entry-content h4,
 .comment-content h4 {
 	font-size: 1.5rem;
+	border-bottom: 2px solid #d1bca9;
+	display: inline-block;
+	padding: 0 0 .66667rem;
 }
 
 .entry-content h5,
 .comment-content h5 {
 	font-size: 1.125rem;
+	border-bottom: 2px solid #d1bca9;
+	display: inline-block;
+	padding: 0 0 .66667rem;
 }
 
 .entry-content h6,
 .comment-content h6 {
 	font-size: 1rem;
+	border-bottom: 2px solid #d1bca9;
+	display: inline-block;
+	padding: 0 0 .66667rem;
 }
 
 .entry-content a,
