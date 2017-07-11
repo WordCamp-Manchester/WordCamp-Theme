@@ -1416,6 +1416,10 @@ th {
 	border-bottom: 1px solid #eea548;
 }
 
+tfoot td {
+    border-top: 1px solid #eea548;
+}
+
 .wcpt-schedule {
 	margin: 1.125rem 0;
 }
