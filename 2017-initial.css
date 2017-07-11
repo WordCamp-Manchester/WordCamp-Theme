@@ -707,6 +707,11 @@ article {
 	color: #ad4c23;
 }
 
+.entry-content a:focus,
+.comment-content a:focus {
+	color: magenta;
+}
+
 .entry-content strong,
 .comment-content strong {
 	font-weight: bold;
