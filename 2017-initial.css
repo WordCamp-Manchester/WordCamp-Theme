@@ -1172,80 +1172,6 @@ body div.sharedaddy h3.sd-title:before {
 	font-size: 36px;
 }
 
-.wcpt-schedule {
-	margin: 1.125rem 0;
-}
-
-.wcpt-schedule th, .wcpt-schedule td {
-	padding: .75rem;
-}
-
-.wcpt-schedule th {
-	background: #fafafa;
-	border: 1px solid white;
-/*color: white;*/
-	font-family: 'Montserrat', 'PT Mono', 'sans-serif', monospace;
-}
-
-.wcpt-schedule .wcpt-time {
-	background: #fafafa;
-	border: 1px solid white;
-	font-family: 'Montserrat', 'PT Mono', 'sans-serif', monospace;
-}
-
-.wcpt-schedule .wcpt-session-type-session {
-	background: #fafafa;
-	border: 1px solid white;
-}
-
-.wcpt-schedule .global-session .wcpt-time {
-	background: #fafafa;
-/*color: white;*/
-}
-
-.wcpt-schedule .global-session .wcpt-session-type-custom {
-	background: #fafafa;
-	border: 1px solid white;
-}
-
-.wcpt-schedule .wcpt-session-title {
-	display: block;
-	line-height: 1.125;
-}
-
-.wcpt-schedule .wcpt-session-speakers {
-	font-size: .75rem;
-	line-height: 1.125;
-}
-
-.wcpt-schedule .wcpt-session-speakers a {
-	color: #ad4c23;
-}
-
-.wcpt-schedule a:hover {
-	color: #ff6f32;
-}
-
-/* striped table rows */
-.table-striped {
-	text-align: center;
-}
-
-.table-striped thead tr th {
-	background-color: #EEA548;
-	color: #FFF;
-	font-weight: bold;
-}
-
-.table-striped tbody tr:nth-child(odd) {
-	background-color: #edd5b8;
-}
-
-.table-striped td {
-	padding: 6px 10px 6px 0;
-	text-align: center;
-}
-
 .sponsor-level-title {
 	border-bottom: 5px solid #ad4c23;
 	border-top: 5px solid #ad4c23;
@@ -1471,14 +1397,96 @@ pre {
 	border-radius: 4px;
 }
 
+/** ----- TABLES ----- **/
+
 table {
 	width: 100%;
 	max-width: 100%;
+	line-height: 1.5;
+	margin: 0 0 1rem;
+}
+
+td {
+	padding: 6px 10px 6px 0;
 }
 
 th {
 	border-bottom: 1px solid #eea548;
 }
+
+.wcpt-schedule {
+	margin: 1.125rem 0;
+}
+
+.wcpt-schedule th, .wcpt-schedule td {
+	padding: .75rem;
+}
+
+.wcpt-schedule th {
+	background: #fafafa;
+	border: 1px solid white;
+/*color: white;*/
+	font-family: 'Montserrat', 'PT Mono', 'sans-serif', monospace;
+}
+
+.wcpt-schedule .wcpt-time {
+	background: #fafafa;
+	border: 1px solid white;
+	font-family: 'Montserrat', 'PT Mono', 'sans-serif', monospace;
+}
+
+.wcpt-schedule .wcpt-session-type-session {
+	background: #fafafa;
+	border: 1px solid white;
+}
+
+.wcpt-schedule .global-session .wcpt-time {
+	background: #fafafa;
+/*color: white;*/
+}
+
+.wcpt-schedule .global-session .wcpt-session-type-custom {
+	background: #fafafa;
+	border: 1px solid white;
+}
+
+.wcpt-schedule .wcpt-session-title {
+	display: block;
+	line-height: 1.125;
+}
+
+.wcpt-schedule .wcpt-session-speakers {
+	font-size: .75rem;
+	line-height: 1.125;
+}
+
+.wcpt-schedule .wcpt-session-speakers a {
+	color: #ad4c23;
+}
+
+.wcpt-schedule a:hover {
+	color: #ff6f32;
+}
+
+/* striped table rows */
+.table-striped {
+	text-align: center;
+}
+
+.table-striped thead tr th {
+	font-weight: bold;
+}
+
+.table-striped tbody tr:nth-child(odd) {
+	background-color: #fbf5ef;
+}
+
+.table-striped td {
+	text-align: center;
+}
+
+
+
 #footer-widget-2 div {
 	text-align: center;
 }
