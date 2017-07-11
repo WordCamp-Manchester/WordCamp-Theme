@@ -353,6 +353,9 @@ input[type='email']:focus {
 .main-navigation ul > li a:hover {
 	color: #e3463a;
 }
+.main-navigation ul > li a:focus {
+	color: magenta;
+}
 
 .main-navigation ul > li:first-child a:before {
 	content: '';
