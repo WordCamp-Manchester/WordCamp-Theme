@@ -1226,6 +1226,26 @@ body div.sharedaddy h3.sd-title:before {
 	color: #ff6f32;
 }
 
+/* striped table rows */
+.table-striped {
+	text-align: center;
+}
+
+.table-striped thead tr th {
+	background-color: #EEA548;
+	color: #FFF;
+	font-weight: bold;
+}
+
+.table-striped tbody tr:nth-child(odd) {
+	background-color: #edd5b8;
+}
+
+.table-striped td {
+	padding: 6px 10px 6px 0;
+	text-align: center;
+}
+
 .sponsor-level-title {
 	border-bottom: 5px solid #ad4c23;
 	border-top: 5px solid #ad4c23;
