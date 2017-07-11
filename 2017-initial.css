@@ -574,6 +574,9 @@ article {
 	-o-transition: color 300ms;
 	-webkit-transition: color 300ms;
 	transition: color 300ms;
+	border-bottom: 2px solid #d1bca9;
+	display: inline-block;
+	padding: 0 0 .66667rem;
 }
 
 .entry-title a {
@@ -636,6 +639,9 @@ article {
 .comment-content h6 {
 	line-height: 1.125;
 	margin: 2.25rem 0 .75rem;
+	border-bottom: 2px solid #d1bca9;
+	display: inline-block;
+	padding: 0 0 .66667rem;
 }
 
 .entry-content h1,
@@ -651,33 +657,21 @@ article {
 .entry-content h3,
 .comment-content h3 {
 	font-size: 1.6875rem;
-	border-bottom: 2px solid #d1bca9;
-	display: inline-block;
-	padding: 0 0 .66667rem;
 }
 
 .entry-content h4,
 .comment-content h4 {
 	font-size: 1.5rem;
-	border-bottom: 2px solid #d1bca9;
-	display: inline-block;
-	padding: 0 0 .66667rem;
 }
 
 .entry-content h5,
 .comment-content h5 {
 	font-size: 1.125rem;
-	border-bottom: 2px solid #d1bca9;
-	display: inline-block;
-	padding: 0 0 .66667rem;
 }
 
 .entry-content h6,
 .comment-content h6 {
 	font-size: 1rem;
-	border-bottom: 2px solid #d1bca9;
-	display: inline-block;
-	padding: 0 0 .66667rem;
 }
 
 .entry-content a,
