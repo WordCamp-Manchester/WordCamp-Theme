@@ -1385,15 +1385,14 @@ li#menu-item-701 > a {
 }
 
 pre {
-	background: #f6f2ef;
-	color: #b32419;
-	font-family: 'Montserrat', 'PT Mono', 'sans-serif', monospace;
-	border: 1px dashed #e3d6ca;
+	background: #f9f7f5;
+	font-family: monospace;
+	border: 1px solid #d1bca9;
 	border-radius: 4px;
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
-	padding: .5rem;
+	padding: 1.5rem;
 	margin: 1.5em 0;
 	-moz-transition: all 300ms;
 	-o-transition: all 300ms;
