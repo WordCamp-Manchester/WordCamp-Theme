@@ -651,6 +651,8 @@ article {
 .entry-content h3,
 .comment-content h3 {
 	font-size: 1.6875rem;
+	border-bottom: 2px solid #d1bca9;
+	display: inline-block;
 }
 
 .entry-content h4,
