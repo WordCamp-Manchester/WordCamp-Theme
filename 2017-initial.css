@@ -248,6 +248,13 @@ input[type='submit']:hover {
 	color: white !important;
 }
 
+a.link-button:focus,
+input[type='submit']:focus {
+	border-color: magenta;
+	color: magenta !important;
+}
+
+
 input[type='text'],
 input[type='email'] {
 	-moz-box-sizing: border-box;
