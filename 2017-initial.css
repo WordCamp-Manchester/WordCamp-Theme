@@ -1471,6 +1471,7 @@ th {
 /* striped table rows */
 .table-striped {
 	text-align: center;
+	font-size:90%;
 }
 
 .table-striped thead tr th {
