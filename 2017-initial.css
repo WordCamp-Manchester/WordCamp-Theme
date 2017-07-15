@@ -1293,6 +1293,8 @@ body div.sharedaddy h3.sd-title:before {
 
 .wcb_widget_sponsors .sponsor-logo img {
 	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .tix_tickets_table + p,
