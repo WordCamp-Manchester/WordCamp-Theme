@@ -1360,6 +1360,11 @@ td.tix-column-remaining {
 	margin-bottom: 1rem;
 }
 
+/* 50% looks way better than thirds, especially on mobile */
+#tix-attendees .tix-columns-3 li {
+	width:50%;
+}
+
 .site-header > hgroup {
 	background-color: #eea548;
 	background-image: url( 'https://2017.manchester.wordcamp.org/files/2017/07/Skyline.png' );
