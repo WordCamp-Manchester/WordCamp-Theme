@@ -1360,9 +1360,14 @@ td.tix-column-remaining {
 	margin-bottom: 1rem;
 }
 
-/* 50% looks way better than thirds, especially on mobile */
 #tix-attendees .tix-columns-3 li {
-	width:50%;
+	width:100%;
+}
+
+@media screen and (min-width: 168px ) {
+	#tix-attendees .tix-columns-3 li {
+		width:50%;
+	}
 }
 
 .site-header > hgroup {
